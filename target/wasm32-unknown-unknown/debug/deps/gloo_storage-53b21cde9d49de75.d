@@ -1,0 +1,10 @@
+/home/walker/rust/web_pjs/testes_for_tracebook/target/wasm32-unknown-unknown/debug/deps/gloo_storage-53b21cde9d49de75.rmeta: /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/walker/rust/web_pjs/testes_for_tracebook/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-53b21cde9d49de75.rlib: /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/walker/rust/web_pjs/testes_for_tracebook/target/wasm32-unknown-unknown/debug/deps/gloo_storage-53b21cde9d49de75.d: /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs:
+/home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs:
+/home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs:
+/home/walker/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs:
